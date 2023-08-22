@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PracticeGithubApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(PracticeGithubApplication.class, args);
+		System.out.println("Added line");
 	}
 
 }
