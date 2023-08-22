@@ -10,6 +10,7 @@ public class PracticeGithubApplication {
 
 		SpringApplication.run(PracticeGithubApplication.class, args);
 		System.out.println("Added line");
+		System.out.println("Added Second line");
 	}
 
 }
